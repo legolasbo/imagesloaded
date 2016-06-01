@@ -1,0 +1,8 @@
+{
+  "name": "legolasbo/imagesloaded",
+  "description": "Shim repository for imagesLoaded: JavaScript is all like ‘You images done yet or what?’",
+  "type": "drupal-library",
+  "license": "MIT",
+  "homepage": "http://imagesloaded.desandro.com/",
+  "version": "4.1.0"
+}
